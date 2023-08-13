@@ -35,6 +35,12 @@ This repository contains a collection of sample code examples in various program
 - `calculator.cpp`: A basic calculator program in C++ with add, subtract, multiply, and divide functions.
 - `search_algorithms.cpp`: C++ implementations of various search algorithms (e.g., linear search, binary search).
 - `file_handling.cpp`: Examples of reading and writing files in C++.
+
+
+
+
+
+HAVE a NICE DAY
 - `data_structures.cpp`: Illustrations of data structures like arrays, linked lists, and queues in C++.
 
 Feel free to explore and use these code examples to learn more about different programming languages and concepts. If you find any issues or have improvements to suggest, feel free to create a pull request.
